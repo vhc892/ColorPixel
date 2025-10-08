@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc5bb8fa26c28b94d9727bd9103f3933, type: 3}
+  m_Name: AchievementQuestSO 10
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: e8938160108e45045a2d3abd4a5ca0e9, type: 3}
+  type: 10
+  questName: Super Cutie
+  description: Color _ 'Cute' pictures
+  milestone: 0300000006000000090000000c0000000f000000
+  currentMilestone: 0
+  currentProgress: 0
+  rewardType: 0
+  rewardAmount: 0a000000140000003200000064000000c8000000
+  canShowNoti: 1

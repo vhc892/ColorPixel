@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8275343349229222202
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7460277577800860225}
+  - component: {fileID: 854811910879913359}
+  m_Layer: 0
+  m_Name: GameAssets
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7460277577800860225
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8275343349229222202}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 543.679, y: 975.98834, z: -8.133756}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &854811910879913359
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8275343349229222202}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 019d0ba30a7a6ff4ca29536d1d876039, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  artBoxContainer: {fileID: 21300000, guid: 3fc3993445dec10408364a85b6277f79, type: 3}
+  numberSprites: {fileID: 21300000, guid: 46bffe19b091f41448e5305d8daa31e4, type: 3}
+  claimButton: {fileID: 21300000, guid: cd8cfe2c717ef6346809978df1d2fe74, type: 3}
+  nonClaimButton: {fileID: 21300000, guid: fca2020efee069141b6725816aa3c979, type: 3}
+  spinButton: {fileID: 21300000, guid: 2530ba2496057124aaf21426dd1e541a, type: 3}
+  adsSpinButton: {fileID: 21300000, guid: 5e4bd0928ef826c48912f6b392b02a7a, type: 3}
+  coin: {fileID: 21300000, guid: 4853078b294d7cd4396c272f9c70ad88, type: 3}
+  fillBooster: {fileID: 21300000, guid: 4597a23907bfd46438fd49e2ad20fd94, type: 3}
+  boomBooster: {fileID: 21300000, guid: 22b471d850e0944409abdc31d285ec3e, type: 3}
+  findBooster: {fileID: 21300000, guid: 044308606531e9d4496fc35aaf7d4528, type: 3}
+  spin: {fileID: 21300000, guid: a4f018a43f9353a4ab02c00852232539, type: 3}
+  emptyBG: {fileID: 21300000, guid: 509d6c5674f10d24aab35ae454b69308, type: 3}
+  getBoosterUI_bomb: {fileID: 21300000, guid: fad52beafcd2a4342b64892d3850f343, type: 3}
+  getBoosterUI_fill: {fileID: 21300000, guid: 96459c43544381d4c8cc0e8b420d13d7, type: 3}
+  getBoosterUI_find: {fileID: 21300000, guid: b9e2514ed54c20a4fafa5eaf2af011a6, type: 3}

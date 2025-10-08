@@ -1,0 +1,2327 @@
+fileFormatVersion: 2
+guid: 46bffe19b091f41448e5305d8daa31e4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NumberAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 922
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609880d2106e25c439b7f85ae45fed88
+      internalID: -2075871074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 922
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371a7b010b1556a4fb89b0e7a31d24e0
+      internalID: -1684319858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 922
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5d8b168189a474ea15f92aa4008233
+      internalID: 1991178812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 922
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c88087336cd6b148bcee46cdf1fd218
+      internalID: -1796324086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 922
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2338dd205fd33df4bb6110e8adc6c0dc
+      internalID: 362839666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 922
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33737c44f1894d64ea3b63e565a6a852
+      internalID: -245420456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 922
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e6237aa6eeab740a45c151708fbc19
+      internalID: 2050636021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_7
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 922
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d6ee8d12c2ca34db0d331620b55ce4
+      internalID: -710878473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_8
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 922
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79e4422ddb03804eb668b691d27a58c
+      internalID: 324582184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_9
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 922
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1586f1f6a34a8ba46b7bcb07bb1e7307
+      internalID: 388337362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 820
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caad5a7562a1bb041b477cd490ca7fbc
+      internalID: 403041678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 820
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f11afb692f7154984ce0b11c7fa07b
+      internalID: -680802835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 820
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ae91d38cc581d41a0b0011f2c41f8d
+      internalID: -1999350392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_13
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 820
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1439187f9c05b4f9691217fa18fa4a
+      internalID: 964532181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_14
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 820
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58559d73e2dda864c9e8cff69e109175
+      internalID: -326692390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_15
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 820
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e1161f41a0dbf489ffd12486b7dbe4
+      internalID: 1791428853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_16
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 820
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70e97365c708464380bf6a0afde7b77
+      internalID: 1236101721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 820
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8ee79fb5489dd4cb837e56740e5436
+      internalID: 541588586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_18
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 820
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5ded735f0937f448cfe25de318e2bd
+      internalID: -1329357101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_19
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 820
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f21bf8cf294ea438002ed3e9a84383
+      internalID: 108786553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 718
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc90ebf2dbefe540848d52e7b78c75e
+      internalID: -478890575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_21
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 718
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabbb49c0e4afbc4e8385d7fb94c870e
+      internalID: 1444415211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 718
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcafce8017ea3224cba3eecdcece184d
+      internalID: 6387390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_23
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 718
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e80117a6270244a8bd7c7a459bad72
+      internalID: 1980350022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_24
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 718
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c3fe4b342171d45b98794bf5e61f81
+      internalID: -674541022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_25
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 718
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e919e8f4ec2fa1c4ca1f812190bb601f
+      internalID: 857930941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_26
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 718
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a092ca2f3dd53774387d517dd9e35b1f
+      internalID: 1075683611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_27
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 718
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78eb6d758dcb0694ab2945a2bf9751a1
+      internalID: 417342082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_28
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 718
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8ffee671804b443bd33a030d75375b
+      internalID: -719505562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_29
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 718
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5197eb6260fb4654db45ff73bde54ee4
+      internalID: -418066875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 616
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81444a3bd0ab75418ed5b86a0a8c4e3
+      internalID: -184066472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_31
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 616
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29222e4bd954d07488fa0a8a46439bb5
+      internalID: -839070141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_32
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 616
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8615c471422296b4c814107d16f7da2a
+      internalID: 913826129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_33
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 616
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360dcb30cfe653844abba94c388c4f68
+      internalID: -1023480996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_34
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 616
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31da1353f2b70a84da3bfbe6f5ef9d55
+      internalID: 2138974734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_35
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 616
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733011b8a8432504390374b61f26ca52
+      internalID: -1591493193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_36
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 616
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20845e981369ca84b82f8bebe3a00099
+      internalID: 636077802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_37
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 616
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b52078b337ab44688cab4b7cba9d4d
+      internalID: -1623836312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_38
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 616
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe688947da5de04781b28303e28d4e4
+      internalID: -404306985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_39
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 616
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f50ddca0f3e8145ad5a26c747e6978
+      internalID: 452793623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 514
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936a7e709096d844f80729bcc1f11196
+      internalID: -1144998453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_41
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 514
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07f0a5b11cf0974da4525f9943b51b0
+      internalID: -1791472003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_42
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 514
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af03d8f4b7a80a846abf30a60a7591bb
+      internalID: -772091945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_43
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 514
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4b778b815c21443b1d3ebbc5a4ac3a
+      internalID: -630337088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_44
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 514
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1816b165f92bef44b5489d61c88069a
+      internalID: 2073816265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_45
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 514
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d472890521a982643a283d97e9d77ef7
+      internalID: -1490902286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_46
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 514
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3691c253a700d8849ae1c8c5c7c45202
+      internalID: -1208235956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_47
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 514
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc9a9981d66e2a42ac87e13bdb66288
+      internalID: 2108922951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_48
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 514
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db684383af749f34dbf5c193a284e166
+      internalID: -367790248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_49
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 514
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83dce8e74c82cfb42b5249c0cb0d9d30
+      internalID: 1087700986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3345d1814743a41458a103644f789d6b
+      internalID: -1332363538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_51
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 412
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c592f6af92636974882d7528717b7761
+      internalID: -995403870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_52
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 412
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c54cf031618f745a713067b0e8f7c8
+      internalID: 946925157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_53
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 412
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd8951bd8b67934399277beb8b855cc
+      internalID: -895184989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_54
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 412
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d093454b9d6c94091d7854ce58cd98
+      internalID: -72272612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_55
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 412
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b436e83cb8e7d444ae7ec100a50179f
+      internalID: -1499252878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_56
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 412
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4d050893191604196ce34947b97ce4
+      internalID: -2032622390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_57
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 412
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92dbc761608d0948b9793380cc3e55e
+      internalID: -1014370457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_58
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 412
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4ac0d411acdb749b82df004cc0f2ec
+      internalID: -124933319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_59
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 412
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cea44135982a7439dab235e501d2b6
+      internalID: -401663333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5270ca80f4f3bc4e8b7308944440a83
+      internalID: 1166047028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_61
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 310
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e310d49f42fea04aa19e24fff28c549
+      internalID: 213836610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_62
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 310
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a36470c8563f34d8e8fad556b4694f
+      internalID: -494815291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_63
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 310
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16af565643c234447b8222fc7030abab
+      internalID: 1831883021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_64
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 310
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0aa77e9b9598f4c82872b04df420ff
+      internalID: 1927497419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_65
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 310
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b59fa417de7aea4087c1e0a993c0fbd
+      internalID: -388587012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_66
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 310
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00357e844ca8252499b0f999f004dff0
+      internalID: 1612926982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_67
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 310
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d20b952049b984abf1af0d35907882
+      internalID: 107164130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_68
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 310
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4b327bd5e6c5d4d9d143514ee56df3
+      internalID: -1920440619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_69
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 310
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0060b00bf72b83343b14a5dd45bfd461
+      internalID: -984581356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a7cdefacecdbb4597156725524abad
+      internalID: 848057847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_71
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 208
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3624f8607afbd2e49842f612aedde88c
+      internalID: -1773270657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_72
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 208
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcb1e549c206e447b566b076c50c5bd
+      internalID: 498538703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_73
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 208
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f24d26ba4d43ec42bb0dcf9f29890f3
+      internalID: 816266801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_74
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 208
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abca566122a7b24eadeefc766520cd1
+      internalID: -964968869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_75
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 208
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4f3770524c2d84b84be05d88e9c2f7
+      internalID: 1810586933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_76
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 208
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e8ef225b05d2342a907a0223f645de
+      internalID: 875029396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_77
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 208
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2612f6d09b5e8149a0abd0335e92e66
+      internalID: 1548581615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_78
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 208
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4e43ae48197554d97cea5fc598a151
+      internalID: 2000622730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_79
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 208
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d085d742054d9a641ba2efff15e9011b
+      internalID: 1857649237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756f9a65de1fa7447ac944b7c7184584
+      internalID: -1435036119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_81
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 106
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df99219406536a4398749468c945bad
+      internalID: -1387901341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_82
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 106
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc9452baed58544dabeb8ca21078d51
+      internalID: 1587626235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_83
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 106
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcc4512a97316d40a7544e398a78e7e
+      internalID: -1876456915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_84
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 106
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8574492c2632c74b93d152e6cbd7e69
+      internalID: -1733038636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_85
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 106
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3107f8c55dbf1324591e0e078da262b7
+      internalID: -1004101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_86
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 106
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b34c898df2ec6498e1e7a35b414ecd
+      internalID: 865451682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_87
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 106
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c7c795a2376c541ae834e09361880f
+      internalID: 873016817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_88
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 106
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ce30124b38941469d9c2897e865652
+      internalID: -97785792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_89
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 106
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b79c9e1bf21d89468ed359492b732f6
+      internalID: 1266597974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3a28d260d8cf64e8554c473b26faf3
+      internalID: 744014204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_91
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 4
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570e1e8e118bc2149bacf1a24e479022
+      internalID: -64536095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_92
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 4
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783e345b350625248b53cecbad3e39f5
+      internalID: -1739899830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_93
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 4
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ad2adc58b7e804fb7b8546b42313b9
+      internalID: -666259514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_94
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 4
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad16d8d7ca609df4c9b8e14bed9dc748
+      internalID: -2131165140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_95
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 4
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da9cdd855e528746b2d18bd22ee43b7
+      internalID: 1752974673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_96
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 4
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70d4d13921d14b4a9a449f53e4db82b
+      internalID: -820221214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_97
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 4
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036c0ad6ec377ff468f271f5a119e9d2
+      internalID: -1919061318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_98
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 4
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6b7b4c3c67a2645b0a7fb7135e4e76
+      internalID: -1106077552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumberAtlas_99
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 4
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5ffa872b74a5141a887ca6628620f5
+      internalID: 1377231271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NumberAtlas_0: -2075871074
+      NumberAtlas_1: -1684319858
+      NumberAtlas_10: 403041678
+      NumberAtlas_11: -680802835
+      NumberAtlas_12: -1999350392
+      NumberAtlas_13: 964532181
+      NumberAtlas_14: -326692390
+      NumberAtlas_15: 1791428853
+      NumberAtlas_16: 1236101721
+      NumberAtlas_17: 541588586
+      NumberAtlas_18: -1329357101
+      NumberAtlas_19: 108786553
+      NumberAtlas_2: 1991178812
+      NumberAtlas_20: -478890575
+      NumberAtlas_21: 1444415211
+      NumberAtlas_22: 6387390
+      NumberAtlas_23: 1980350022
+      NumberAtlas_24: -674541022
+      NumberAtlas_25: 857930941
+      NumberAtlas_26: 1075683611
+      NumberAtlas_27: 417342082
+      NumberAtlas_28: -719505562
+      NumberAtlas_29: -418066875
+      NumberAtlas_3: -1796324086
+      NumberAtlas_30: -184066472
+      NumberAtlas_31: -839070141
+      NumberAtlas_32: 913826129
+      NumberAtlas_33: -1023480996
+      NumberAtlas_34: 2138974734
+      NumberAtlas_35: -1591493193
+      NumberAtlas_36: 636077802
+      NumberAtlas_37: -1623836312
+      NumberAtlas_38: -404306985
+      NumberAtlas_39: 452793623
+      NumberAtlas_4: 362839666
+      NumberAtlas_40: -1144998453
+      NumberAtlas_41: -1791472003
+      NumberAtlas_42: -772091945
+      NumberAtlas_43: -630337088
+      NumberAtlas_44: 2073816265
+      NumberAtlas_45: -1490902286
+      NumberAtlas_46: -1208235956
+      NumberAtlas_47: 2108922951
+      NumberAtlas_48: -367790248
+      NumberAtlas_49: 1087700986
+      NumberAtlas_5: -245420456
+      NumberAtlas_50: -1332363538
+      NumberAtlas_51: -995403870
+      NumberAtlas_52: 946925157
+      NumberAtlas_53: -895184989
+      NumberAtlas_54: -72272612
+      NumberAtlas_55: -1499252878
+      NumberAtlas_56: -2032622390
+      NumberAtlas_57: -1014370457
+      NumberAtlas_58: -124933319
+      NumberAtlas_59: -401663333
+      NumberAtlas_6: 2050636021
+      NumberAtlas_60: 1166047028
+      NumberAtlas_61: 213836610
+      NumberAtlas_62: -494815291
+      NumberAtlas_63: 1831883021
+      NumberAtlas_64: 1927497419
+      NumberAtlas_65: -388587012
+      NumberAtlas_66: 1612926982
+      NumberAtlas_67: 107164130
+      NumberAtlas_68: -1920440619
+      NumberAtlas_69: -984581356
+      NumberAtlas_7: -710878473
+      NumberAtlas_70: 848057847
+      NumberAtlas_71: -1773270657
+      NumberAtlas_72: 498538703
+      NumberAtlas_73: 816266801
+      NumberAtlas_74: -964968869
+      NumberAtlas_75: 1810586933
+      NumberAtlas_76: 875029396
+      NumberAtlas_77: 1548581615
+      NumberAtlas_78: 2000622730
+      NumberAtlas_79: 1857649237
+      NumberAtlas_8: 324582184
+      NumberAtlas_80: -1435036119
+      NumberAtlas_81: -1387901341
+      NumberAtlas_82: 1587626235
+      NumberAtlas_83: -1876456915
+      NumberAtlas_84: -1733038636
+      NumberAtlas_85: -1004101
+      NumberAtlas_86: 865451682
+      NumberAtlas_87: 873016817
+      NumberAtlas_88: -97785792
+      NumberAtlas_89: 1266597974
+      NumberAtlas_9: 388337362
+      NumberAtlas_90: 744014204
+      NumberAtlas_91: -64536095
+      NumberAtlas_92: -1739899830
+      NumberAtlas_93: -666259514
+      NumberAtlas_94: -2131165140
+      NumberAtlas_95: 1752974673
+      NumberAtlas_96: -820221214
+      NumberAtlas_97: -1919061318
+      NumberAtlas_98: -1106077552
+      NumberAtlas_99: 1377231271
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

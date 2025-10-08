@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cfad499a271d00468dfd02bcbf0c043, type: 3}
+  m_Name: Concept_HeroSO
+  m_EditorClassIdentifier: 
+  type: 0
+  artBoxSOList:
+  - {fileID: 11400000, guid: d2da758cea09b7146ac3cb46f912ff35, type: 2}
+  - {fileID: 11400000, guid: 39e67b811f12d4a42ab964dce07ab37c, type: 2}
+  - {fileID: 11400000, guid: fb4158e7e93378842957c5d8d3cf9f14, type: 2}
+  - {fileID: 11400000, guid: dadfa00e101c69747a9a47721f72306c, type: 2}
+  - {fileID: 11400000, guid: 267bca0f61802cd48b14db5f65c89021, type: 2}
+  - {fileID: 11400000, guid: 610e3245872e4584fa5bc6a26072f3bf, type: 2}
+  - {fileID: 11400000, guid: a27a4ee8fbf59cc449b3c6f999cf2d93, type: 2}
+  - {fileID: 11400000, guid: 501f217f743672a49a76804a7d795ced, type: 2}
+  - {fileID: 11400000, guid: ae719e2fc94b85847b48cd1319e49f0c, type: 2}
+  - {fileID: 11400000, guid: 907f5cf06a1008245b81c8cab024848a, type: 2}
+  - {fileID: 11400000, guid: b9b8b4bf1f5aed54d85ab0d43567e6e9, type: 2}

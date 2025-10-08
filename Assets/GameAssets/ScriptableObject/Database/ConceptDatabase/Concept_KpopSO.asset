@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cfad499a271d00468dfd02bcbf0c043, type: 3}
+  m_Name: Concept_KpopSO
+  m_EditorClassIdentifier: 
+  type: 2
+  artBoxSOList:
+  - {fileID: 11400000, guid: 4896b2eb5e4ee984fb5c3dea2b5e07ca, type: 2}
+  - {fileID: 11400000, guid: 87cb92d77890ec94285d1af3c5c2ecdd, type: 2}
+  - {fileID: 11400000, guid: f2df68671c95af543aba73b80483ec59, type: 2}
+  - {fileID: 11400000, guid: 83dbe9104f0826b40b6e80a51c56fb6b, type: 2}
+  - {fileID: 11400000, guid: 92aa84b30081e9d46ab1f5cec8ab4df3, type: 2}
+  - {fileID: 11400000, guid: b009d5e7245424f44862c522306599dd, type: 2}
+  - {fileID: 11400000, guid: 323b59a1c6f5a5643b288854d42c1ab5, type: 2}
+  - {fileID: 11400000, guid: 9c01b4593e02cf345ad47b7317da1b19, type: 2}
+  - {fileID: 11400000, guid: c56465d25b3aef04b92776aabf0b3271, type: 2}
+  - {fileID: 11400000, guid: c113514d66babb54ca89561761f452a6, type: 2}
