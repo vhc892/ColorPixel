@@ -150,6 +150,7 @@ public class TutorialManager : MonoBehaviour
 
     public void NextRealtimeTutorial()
     {
+        if (CoreGameManager.Instance.IsWin()) HideRealtimeTutorial();
         Vector3 firstTouch = realtimeTutorialUI.cam.ScreenToWorldPoint(
         new Vector3(Input.mousePosition.x, Input.mousePosition.y, realtimeTutorialUI.cam.nearClipPlane));
 
@@ -179,7 +180,7 @@ public class TutorialManager : MonoBehaviour
                     BoomManager.Instance.StartBoom(firstTouch);
                     text.DOFade(0, 0.3f).OnComplete(() =>
                     {
-                        text.SetText($"<color={"#EF62A7"}>Item Paint Cursor</color> helps you find a valid cell");
+                        text.SetText($"<color={"#EF62A7"}>Item Hint</color> helps you find a valid cell");
                         SetRealTimeTutHandTouchPos(realtimeTutorialUI.findButtonTut.transform.position);
                         RealTimeTutHandTouchAnim();
                         text.DOFade(1, 0.3f);

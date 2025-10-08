@@ -232,13 +232,20 @@ public class SaveLoadManager : MonoBehaviour
         QuestSaveSystem questSaveSystem = new QuestSaveSystem();
         QuestDataList dataList = questSaveSystem.Load();
 
+        Dictionary<QuestType, QuestSO> questDict = QuestManager.Instance.GetQuestDict();
+
         if (dataList == null)
         {
             QuestManager.Instance.ResetDailyQuests();
+            foreach (var quest in questDict.Values)
+            {
+                quest.currentProgress = 0;
+                quest.SetCurrentMileStone(0);
+                quest.canShowNoti = true;
+            }
             return;
         }
 
-        Dictionary<QuestType, QuestSO> questDict = QuestManager.Instance.GetQuestDict();
         foreach (var data in dataList.list)
         {
             if (questDict.ContainsKey(data.questType))

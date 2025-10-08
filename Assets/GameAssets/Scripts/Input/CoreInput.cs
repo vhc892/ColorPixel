@@ -95,7 +95,7 @@ public class CoreInput : BaseInput
 
         if (Input.touchCount == 2 && (IsState(Helper.InputState.Zoom) || IsState(Helper.InputState.Drag)))
         {
-            PlayerManager.Instance.InputState = Helper.InputState.Zoom;
+            //PlayerManager.Instance.InputState = Helper.InputState.Zoom;
             HandleZoom_Touch();
             CoreGameManager.Instance.UpdateBorderByScale(); // cập nhật viền số theo scale:contentReference[oaicite:5]{index=5}
         }
@@ -232,6 +232,14 @@ public class CoreInput : BaseInput
     {
         Touch touch0 = Input.GetTouch(0);
         Touch touch1 = Input.GetTouch(1);
+
+        if (touch0.phase == TouchPhase.Began || touch1.phase == TouchPhase.Began)
+        {
+            isTouchOnUILayer = IsPointerOverUI(touch0.position) || IsPointerOverUI(touch1.position);
+            if (isTouchOnUILayer) return;
+            PlayerManager.Instance.InputState = Helper.InputState.Zoom;
+        }
+        if (isTouchOnUILayer) return;
 
         Vector2 touch0PrevPos = touch0.position - touch0.deltaPosition;
         Vector2 touch1PrevPos = touch1.position - touch1.deltaPosition;

@@ -812,6 +812,7 @@ public class CoreGameManager : MonoBehaviour
             QuestManager.Instance.UpdateQuestProgress(Helper.QuestType.Achievement_Picture);
             QuestManager.Instance.UpdateQuestProgress(Helper.QuestType.Achievement_Pictures_Same_Day);
         }
+        TutorialManager.Instance.HideRealtimeTutorialIfActive();
     }
     public void ClearCurrentArtBoxSO()
     {
